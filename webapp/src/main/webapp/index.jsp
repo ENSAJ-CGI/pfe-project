@@ -20,7 +20,7 @@
 
       <form class="w3-container" action="/action_page.php">
         <div class="w3-section">
-          <label><b>Username</b></label>
+          <label><b>username</b></label>
           <input class="w3-input w3-border w3-margin-bottom" type="text" placeholder="Enter Username" name="usrname" required>
           <label><b>Password</b></label>
           <input class="w3-input w3-border" type="text" placeholder="Enter Password" name="psw" required>
