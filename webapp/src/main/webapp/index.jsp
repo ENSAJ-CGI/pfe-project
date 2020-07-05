@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
-<title>W3.CSS</title>
+<title>CGI</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
 <body>
 
 <div class="w3-container">
-  <h2> ACHAHBA MED AMINE</h2>
+  <h2> CGI ENSAJ LOGIN </h2>
 
   <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-green w3-large">Login</button>
 
@@ -15,7 +15,7 @@
   
       <div class="w3-center"><br>
         <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-xlarge w3-transparent w3-display-topright" title="Close Modal">×</span>
-        <img src="img_avatar4.png" alt="Avatar" style="width:30%" class="w3-circle w3-margin-top">
+        <img src="img_avatar4.png" alt="CGI /ENSAJ" style="width:30%" class="w3-circle w3-margin-top">
       </div>
 
       <form class="w3-container" action="/action_page.php">
