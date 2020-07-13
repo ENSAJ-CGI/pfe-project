@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
-<title>CGI Ensaj</title>
+<title>CGI Ensaj login </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
 
 <div class="w3-container">
-  <h2> CGI ENSAJ LOGIN </h2>
+  <h2> CGI ENSAJ test </h2>
 
   <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-green w3-large">Login</button>
 
