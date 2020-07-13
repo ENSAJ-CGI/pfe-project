@@ -6,7 +6,7 @@
 <body>
 
 <div class="w3-container">
-  <h2> CGI ENSAJ test </h2>
+  <h2> CGI ENSAJ login </h2>
 
   <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-green w3-large">Login</button>
 
